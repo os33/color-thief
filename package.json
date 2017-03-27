@@ -1,5 +1,5 @@
 {
-  "name": "color-thief",
+  "name": "@os33/color-thief",
   "version": "2.0.2",
   "author": {
     "name": "Lokesh Dhakar",
@@ -19,10 +19,10 @@
   "homepage": "http://lokeshdhakar.com/projects/color-thief/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lokesh/color-thief.git"
+    "url": "https://github.com/os33/color-thief.git"
   },
   "bugs": {
-    "url": "https://github.com/lokesh/color-thief/issues"
+    "url": "https://github.com/os33/color-thief/issues"
   },
   "licenses": [
     {
